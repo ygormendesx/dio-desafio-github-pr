@@ -1,5 +1,7 @@
 Comandos importantes:
-git clone
-git status
-git add *
-git commit -m "...modificações..."
+git clone (clona um repositório do servido localmente).
+git status (verifica o status dos arquivos se alterados ou não).
+git add * (adiciona as modificações do repositório local).
+git commit -m "...modificações..." (cria o commit da nova versão com a descrição do que foi alterado).
+git push origin main (envia as modificações para o repositório).
+
